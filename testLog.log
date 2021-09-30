@@ -1,0 +1,422 @@
+[main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - LandingPage Check
+  [main] INFO  org.test.Base  - Check LandingPage Title
+  [main] INFO  org.test.Base  - LandingPage Done
+  [main] INFO  org.test.Base  - Login Check
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - Login process started
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - Login process started
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - Login process started
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - Login process started
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - Login process started
+  [main] INFO  org.test.Base  - Login Check Done
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  [main] INFO  org.test.Base  - HomePage Check
+  [main] INFO  org.test.Base  - Check HomePage Title
+  [main] INFO  org.test.Base  - HomePage check complete
+  [main] INFO  org.test.Base  - SearchPage Check
+  [main] INFO  org.test.Base  - Check SearchPage
+  [main] INFO  org.test.Base  - CardPage Check
+  [main] INFO  org.test.Base  - Check Price
+  [main] INFO  org.test.Base  - Check Quantity
+  [main] INFO  org.test.Base  - Check Card
+  [main] INFO  org.test.Base  - CardPage Check Done
+  [main] INFO  org.test.Base  - Driver Quit
+  
